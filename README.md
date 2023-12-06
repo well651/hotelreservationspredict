@@ -54,4 +54,4 @@ A classificação funciona da seguinte forma:
 }
 ```
 ### Accuracy 
-![Alt text](public\accuracyscore.png)
+![Accuracy Score](https://github.com/well651/hotelreservationspredict/blob/main/public/accuracyscore.png)
